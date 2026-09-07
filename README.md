@@ -25,9 +25,9 @@
 
 ```yaml
 identity:
-  name: Habib (Abib)
-  role: Full-Stack Developer & AI Systems Builder
-  focus: High-Performance Web Apps, Autonomous Agents, & Cloud Infrastructure
+  name: Mufti Labib Azharudin (Abib)
+  role: Developer & Infrastructure Enginer
+  focus: High-Performance Web Apps, Network Enginer, & Cloud Infrastructure
   learning: Distributed Systems, LLM Orchestration & Reverse Engineering
   mindset: "Ship fast, write clean code, automate everything."
 ```
