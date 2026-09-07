@@ -22,15 +22,18 @@
   </a>
 </p>
 
+<!-- HERO DEVELOPER CODING CARTOON (OPENING VISUAL) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding Cartoon" width="460" style="border-radius: 14px; box-shadow: 0 4px 20px rgba(2, 132, 199, 0.25);" />
+  <br/>
+  <sub><i>⚡ Always building, optimizing, and automating systems</i></sub>
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me & Workspace
-
-<table border="0" width="100%">
-  <tr>
-    <td width="58%" valign="top">
+### 👨‍💻 About Me
 
 ```yaml
 identity:
@@ -41,19 +44,10 @@ identity:
   mindset: "Ship fast, build robust infrastructure, automate everything."
 ```
 
-* 🚀 **Current Projects:** Engineering **Arthanta** (Personal Finance), **SteelLoad CAD** (3D Logistics Engine), and **Zefora Ecosystem**.
-* 🌐 **Infrastructure & Networks:** Reverse proxies, Linux VPS clouds, automated pipelines, & autonomous AI gateways.
-* 🛠️ **Core Strengths:** Full-stack development, server hardening, network routing, and containerization.
-* 💬 **Reach Out For:** Web application development, infrastructure architecture, or open-source collaborations.
-
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding Cartoon" width="320" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(2, 132, 199, 0.25);" />
-      <br/>
-      <sub><i>⚡ Always building & automating systems</i></sub>
-    </td>
-  </tr>
-</table>
+* 🚀 **Current Projects:** Engineering **Arthanta** (Mobile Personal Finance), **SteelLoad CAD Engine** (3D Logistics Simulation), and **Zefora Studio Ecosystem**.
+* 🌐 **Infrastructure & Networks:** Configuring secure high-throughput reverse proxies, VPS cloud environments, automated CI/CD pipelines, and autonomous AI gateways.
+* 🛠️ **Core Strengths:** Full-stack development, server hardening, network routing, containerization, and clean architectural design.
+* 💬 **Reach Out For:** Web application development, infrastructure architecture, network engineering, or collaborative open-source projects.
 
 ---
 
