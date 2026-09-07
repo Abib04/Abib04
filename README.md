@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- HEADER BANNER DYNAMIC (VENOM STYLE) -->
+<!-- HEADER BANNER DYNAMIC (VENOM STYLE - SAME AS AHLFS) -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:0284c7&text=Mufti%20Labib%20Azharudin&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer%20and%20Infrastructure%20Engineer&descSize=20&descColor=BAE6FD&descAlignY=65" width="100%"/>
 
-<!-- DEVELOPER DUAL-MONITOR CODING ANIMATION (WITH PERSON) -->
+<!-- AUTHENTIC CYBERPUNK PIXEL ART DEVELOPER BATTLESTATION (WITH PERSON) -->
 <p align="center">
-  <img src="./assets/developer_dual_monitor.gif" alt="Developer Coding at Dual Monitor Workstation" width="100%" style="max-width: 650px; border-radius: 14px; box-shadow: 0 8px 30px rgba(2, 132, 199, 0.25); margin-top: 8px;" />
+  <img src="./assets/pixel_cyber_workstation.gif" alt="Cyberpunk Pixel Art Developer Workstation" width="100%" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(2, 132, 199, 0.25); margin-top: 4px;" />
   <br/>
-  <sub><i>⚡ Focused on High-Performance Web Apps, Robust Networks & Autonomous Cloud Systems</i></sub>
+  <sub><i>⚡ Dedicated to High-Performance Web Apps, Robust Networks & Autonomous Cloud Systems</i></sub>
 </p>
 
 <!-- PROFILE VIEWS & STATUS BADGES -->
