@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- HEADER BANNER DYNAMIC (VENOM STYLE - SAME AS AHLFS) -->
+<!-- HEADER BANNER DYNAMIC (VENOM STYLE) -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:0284c7&text=Mufti%20Labib%20Azharudin&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer%20and%20Infrastructure%20Engineer&descSize=20&descColor=BAE6FD&descAlignY=65" width="100%"/>
 
-<!-- CYBERPUNK PIXEL ART BALCONY RAIN ANIMATION (SAME AS AHLFS) -->
-<img src="./assets/cyberpunk_balcony.gif" alt="Cyberpunk City Balcony Rain Animation" width="100%" />
+<!-- RETRO PIXEL ART PC & CITY SKYLINE BANNER (UNIQUE TO ABIB04) -->
+<img src="./assets/retro_pc_skyline.gif" alt="Retro PC Night City Skyline Pixel Art" width="100%" style="border-radius: 12px; margin-top: 4px;" />
 
 <!-- PROFILE VIEWS & STATUS BADGES -->
 <p align="center">
