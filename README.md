@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- HEADER BANNER DYNAMIC (VENOM STYLE - SAME AS AHLFS) -->
+<!-- HEADER BANNER DYNAMIC (VENOM STYLE) -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:0284c7&text=Mufti%20Labib%20Azharudin&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer%20and%20Infrastructure%20Engineer&descSize=20&descColor=BAE6FD&descAlignY=65" width="100%"/>
+
+<!-- NEON ANIMATED DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Line Divider" />
 
 <!-- PROFILE VIEWS & STATUS BADGES -->
 <p align="center">
@@ -23,7 +26,11 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & Workspace
+
+<table border="0" width="100%">
+  <tr>
+    <td width="58%" valign="top">
 
 ```yaml
 identity:
@@ -34,10 +41,19 @@ identity:
   mindset: "Ship fast, build robust infrastructure, automate everything."
 ```
 
-* 🚀 **Current Projects:** Engineering **Arthanta** (Mobile Personal Finance), **SteelLoad CAD Engine** (3D Logistics Simulation), and **Zefora Studio Ecosystem**.
-* 🌐 **Infrastructure & Networks:** Configuring secure high-throughput reverse proxies, VPS cloud environments, automated CI/CD pipelines, and autonomous AI gateways.
-* 🛠️ **Core Strengths:** Full-stack development, server hardening, network routing, containerization, and clean architectural design.
-* 💬 **Reach Out For:** Web application development, infrastructure architecture, network engineering, or collaborative open-source projects.
+* 🚀 **Current Projects:** Engineering **Arthanta** (Personal Finance), **SteelLoad CAD** (3D Logistics Engine), and **Zefora Ecosystem**.
+* 🌐 **Infrastructure & Networks:** Reverse proxies, Linux VPS clouds, automated pipelines, & autonomous AI gateways.
+* 🛠️ **Core Strengths:** Full-stack development, server hardening, network routing, and containerization.
+* 💬 **Reach Out For:** Web application development, infrastructure architecture, or open-source collaborations.
+
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding Cartoon" width="320" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(2, 132, 199, 0.25);" />
+      <br/>
+      <sub><i>⚡ Always building & automating systems</i></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
