@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- HEADER BANNER DYNAMIC (VENOM STYLE) -->
+<!-- HEADER BANNER DYNAMIC (VENOM STYLE - SAME AS AHLFS) -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:0284c7&text=Mufti%20Labib%20Azharudin&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer%20and%20Infrastructure%20Engineer&descSize=20&descColor=BAE6FD&descAlignY=65" width="100%"/>
 
-<!-- NEON ANIMATED DIVIDER LINE -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Line Divider" />
+<!-- CYBERPUNK PIXEL ART BALCONY RAIN ANIMATION (SAME AS AHLFS) -->
+<img src="./assets/cyberpunk_balcony.gif" alt="Cyberpunk City Balcony Rain Animation" width="100%" />
 
 <!-- PROFILE VIEWS & STATUS BADGES -->
 <p align="center">
@@ -20,13 +20,6 @@
   <a href="https://github.com/Abib04">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile.;Developer+%26+Infrastructure+Engineer.;Specializing+in+Web+Apps+%26+Network+Infrastructure.;Passionate+about+Cloud+Systems%2C+DevOps%2C+and+Automation." alt="Typing SVG" />
   </a>
-</p>
-
-<!-- HERO DEVELOPER CODING CARTOON (OPENING VISUAL) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding Cartoon" width="460" style="border-radius: 14px; box-shadow: 0 4px 20px rgba(2, 132, 199, 0.25);" />
-  <br/>
-  <sub><i>⚡ Always building, optimizing, and automating systems</i></sub>
 </p>
 
 </div>
